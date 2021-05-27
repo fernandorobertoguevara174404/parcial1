@@ -1,0 +1,2 @@
+FLASK_APP=parcial1.py
+FLASK_DEBUG=True
